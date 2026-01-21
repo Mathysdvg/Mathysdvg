@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRwN3Q3M3Z0dXJzYjR1b3B2a2Q0b2V2bXNnZXJ5bWk0a2x4c3F0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+
 # 👋 Salut, moi c’est Mathys
+
+</div>
 
 🎮 **Développeur passionné par le jeu vidéo, les applications et l’informatique en général**
 💻 J’aime concevoir des projets **propres, logiques et évolutifs**, que ce soit pour le fun ou pour apprendre de nouvelles compétences.
@@ -23,6 +29,13 @@
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+### 🌐 Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🛠️ Outils & Logiciels
 
@@ -33,31 +46,25 @@
 
 ---
 
-## 🧩 Projets
-
-🔹 **Jeux vidéo avec Godot**
-
-* Jeux de gestion inspirés de *Dispatch*
-* Clicker stratégique avec mécaniques tactiques
-* Déplacements et systèmes d’animations optimisés
-
-🔹 **Applications C# (Windows Forms)**
-
-* Application d’organisation de tournois e-sport
-* Systèmes de recherche, votes, quiz et UserControls
-
-🔹 **Autres expérimentations**
-
-* WASM / JavaScript
-* Architecture orientée objet & UML
-
----
-
 ## 📈 Objectifs
 
 * 🔧 Monter en compétences en **architecture logicielle**
 * 🎮 Créer un **jeu complet et publié**
 * 🌱 Continuer à apprendre et expérimenter
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KerrianG0&show_icons=true&theme=matrix&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KerrianG0&theme=matrix&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerrianG0&layout=compact&theme=matrix&hide_border=true" />
+
+</div>
 
 ---
 
