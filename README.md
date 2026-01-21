@@ -1,22 +1,19 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRwN3Q3M3Z0dXJzYjR1b3B2a2Q0b2V2bXNnZXJ5bWk0a2x4c3F0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
-
 # 👋 Salut, moi c’est Mathys
 
 </div>
 
 🎮 **Développeur passionné par le jeu vidéo, les applications et l’informatique en général**
-💻 J’aime concevoir des projets **propres, logiques et évolutifs**, que ce soit pour le fun ou pour apprendre de nouvelles compétences.
+💻 J’aime concevoir des projets **propres, que ce soit pour le fun ou pour apprendre de nouvelles compétences.
 
 ---
 
 ## 🚀 À propos de moi
 
 * 🎯 Étudiant en **BTS SIO**
-* 🕹️ Création de **jeux vidéo** (gestion, tactique, clicker, RPG…)
-* 🧠 Intéressé par la **logique, l’architecture logicielle et l’optimisation**
-* 🐧 Utilisateur **Linux** (Ubuntu)
+* 🕹️ Création de **jeux vidéo**
+* 🐧 Utilisateur **Linux**
 * 🛠️ J’aime comprendre *comment les choses fonctionnent*, pas juste les faire marcher
 
 ---
@@ -43,14 +40,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-## 📈 Objectifs
-
-* 🔧 Monter en compétences en **architecture logicielle**
-* 🎮 Créer un **jeu complet et publié**
-* 🌱 Continuer à apprendre et expérimenter
 
 ---
 
